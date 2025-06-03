@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+    这是首页
+</view>
+<view>你好</view>
+
+<!--
+
+<image src="/images/home.png" style="width: 400rpx; height: 400rpx;"></image>
+<icon class="icon-box-img" type="success"></icon>
+
+-->
