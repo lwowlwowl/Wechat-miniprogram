@@ -8,7 +8,7 @@
 
 - 前端（大前端）
   - web页面（浏览器中的页面）：html, css, js
-  - 安卓/iso 的 app ：java, object C
+  - 安卓/iso 的 app：java, object C
   - **微信小程序：wxml, wxss, js**
   - 桌面端：qt平台（python, C++）
 
