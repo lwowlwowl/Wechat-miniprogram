@@ -64,4 +64,13 @@
   - image 对标 img
 ... 
 
-
+### 2.5 小程序引入矢量图
+阿里矢量库：https://www.iconfont.cn/ 
+- 加入购物车
+- 在购物车中添加至项目
+  - 把 unicode 改成 font class
+  - 项目设置里【字体格式】勾选【Base64】
+- 查看在线链接
+- 复制代码并打开网页，将内容复制到 /static/css/iconfont.wxss
+- 在app.wxss中引入 @import "/static/css/iconfont.wxss"
+- 在想用图标的位置，加入text组件 <text class="iconfont 组件名">
